@@ -19,9 +19,8 @@
 
 - [x] Upload `hello_user.py`, the video, and the photo to this repository. Then, continue to Part III.
  ![image_67226369](https://github.com/user-attachments/assets/a993461d-b5a6-49d7-9fc3-bbc0d2efaf81)
-https://github.com/user-attachments/assets/6ac99794-024b-475c-864d-106b7614fa58
 
-
+https://github.com/user-attachments/assets/b47d9cd2-a154-4d70-84d0-a13eaa547b0f
 
 ## Part III - Stop Watch
 
@@ -32,7 +31,8 @@ https://github.com/user-attachments/assets/6ac99794-024b-475c-864d-106b7614fa58
 
 - [x] Upload `stopwatch.py`, the video, and the photo to this repository. 
 
-https://github.com/user-attachments/assets/b47d9cd2-a154-4d70-84d0-a13eaa547b0f
+https://github.com/user-attachments/assets/fa508bed-371f-4416-8411-3f9118c801de
+
 
 
 ## Rubric 
