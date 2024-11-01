@@ -19,7 +19,8 @@
 
 - [x] Upload `hello_user.py`, the video, and the photo to this repository. Then, continue to Part III.
  ![image_67226369](https://github.com/user-attachments/assets/a993461d-b5a6-49d7-9fc3-bbc0d2efaf81)
-https://github.com/user-attachments/assets/75d7db3d-9a05-48be-8bff-44b1a85dbce6
+https://github.com/user-attachments/assets/6ac99794-024b-475c-864d-106b7614fa58
+
 
 
 ## Part III - Stop Watch
